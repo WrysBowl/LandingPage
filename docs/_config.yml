@@ -1,8 +1,8 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "https://coffeebank.github.io"
-baseurl: "/moonrise"
+url: "https://WrysBowl.github.io"
+baseurl: "/LandingPage"
 siteIcon: media/android-chrome-192x192.png
 siteYear: 2020
 siteFooterlink: https://github.com/coffeebank/moonrise
@@ -11,13 +11,12 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Moonrise MC
-serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 79.46.31.53:3498
-
+serverName: SiegeMC
+serverDescription: An innovative dungeon-crawling MMORPG
+serverIP: 51.222.10.2:25617
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
+discordInvite: https://discord.siegerpg.net
 discordServerID: 299881420891881473
 discordChannelID: 450428756855750666
 
