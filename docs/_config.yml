@@ -13,7 +13,7 @@ showinSearchEngines: true
 # Set basic server info
 serverName: SiegeMC
 serverDescription: An innovative dungeon-crawling MMORPG
-serverIP: 51.222.10.2:25617
+serverIP: play.siegerpg.net
 
 # Discord information
 discordInvite: https://discord.siegerpg.net
