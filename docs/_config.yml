@@ -3,7 +3,7 @@
 # Change "moonrise" to your repository name
 url: "https://siegemc.net"
 baseurl: "/"
-siteIcon: https://cdn.discordapp.com/icons/626221022013816842/bc45d22c649c06e2453b7d8743a89459.png?size=192\
+siteIcon: media/siege192.png
 siteYear: 2020
 siteFooterlink: https://siegerpg.net
 showinSearchEngines: true
